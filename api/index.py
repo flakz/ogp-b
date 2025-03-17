@@ -1,7 +1,7 @@
+# bot.py
 import os
 import asyncio
 import logging
-import time
 import traceback
 from typing import Dict, List, Optional, Any
 
